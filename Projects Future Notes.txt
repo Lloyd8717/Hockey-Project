@@ -1,0 +1,8 @@
+Here I will note some points to keep in memory:
+
+- Find an optimal way to evaluate defensive players
+
+- Defenseman vs Forward difference
+
+- Individual Player and Line-Up
+
